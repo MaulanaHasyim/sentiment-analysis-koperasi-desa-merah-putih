@@ -1,0 +1,13 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+scikit-learn
+Sastrawi
+nlp-id
+tqdm
+openpyxl
